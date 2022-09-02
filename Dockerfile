@@ -10,3 +10,4 @@ COPY ./src /app/
 ENV FLASK_APP=server.py
 
 CMD flask run -h 0.0.0.0 -p 5000
+EXPOSE 5000
