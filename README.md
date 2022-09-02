@@ -1,2 +1,2 @@
-# docker-Java-kubernetes-project
-Deploying Java Applications with Docker and Kubernetes
+# docker-python-kubernetes-project
+Deploying Python Applications with Docker and Kubernetes
