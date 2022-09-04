@@ -1,0 +1,2087 @@
+|-----------|-------------------|-------------|----------------------------|
+| NAMESPACE |       NAME        | TARGET PORT |            URL             |
+|-----------|-------------------|-------------|----------------------------|
+| default   | pythonapp-service |          80 | http://172.31.46.155:31707 |
+|-----------|-------------------|-------------|----------------------------|
+* Opening service default/pythonapp-service in default browser...
+  http://172.31.46.155:31707
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 23070
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 31033
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: []
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 34062
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors
+Status:	
+	machine: minikube
+	pid: 38671
+	route: 10.96.0.0/12 -> 172.31.46.155
+	minikube: Running
+	services: [pythonapp-service]
+    errors: 
+		minikube: no errors
+		router: no errors
+		loadbalancer emulator: no errors

@@ -22,6 +22,6 @@ spec:
       containers:
       - name: pythonapp
         image: teodorionascu/python:1.0.0
-        imagePullPolicy: Always
+        imagePullPolicy: Never
         ports:
         - containerPort: 5000
