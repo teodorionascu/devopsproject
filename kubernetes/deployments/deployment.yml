@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pythonapp-deployment
+  labels:
+    app: pythonapp
+spec:
+  selector:
+    matchLabels:
+      app: pythonapp
+  replicas: 2
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+    template:
+      metadata:
+        labels:
+          app: pythonapp
+      spec:
+        containers:
+        - name: pythonapp
+          image: teodorionascu/python:1.0.0
+          imagePullPolicy: Always
+          ports:
+          - containerPort: 5000
